@@ -1,0 +1,21 @@
+
+/* Set the size of the div element that contains the map */
+#map {
+  height: 100%;
+ }
+
+.taxi-header {
+    margin: 2px;
+}
+
+.map-container {
+    margin: 0;
+    height: 94%;
+}
+
+#ride-search {
+    position: absolute;
+    top: 1%;
+    left: 40%;
+    width: 20%;
+}
